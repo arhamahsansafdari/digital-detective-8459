@@ -40,4 +40,16 @@ Tools Used
 Mission 0: In progress
 
 The remaining missions will be completed and documented in order.
+
+
+## My Learning
+
+Through the Digital Detective assignment, I have learned several important computer science concepts.
+
+1. **Terminal and file management:** I learned how to navigate directories, create files, and use command-line tools to manage my project.
+
+2. **Operating systems:** I learned how an operating system manages processes, storage, files, and permissions.
+
+3. **Python and data representation:** I learned how to execute Python programs and convert numbers between decimal, binary, and hexadecimal.
+
   
